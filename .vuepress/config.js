@@ -3,12 +3,8 @@ module.exports = {
     description: '',
     base: '/frontend-lectures/',
     themeConfig: {
-        sidebar: [{
-            title: 'В первую очередь',
-            collapsable: false,
-            children: [
-                '1-intro/'
-            ]
-        }]
+        sidebar: [
+            '1-intro/'
+        ]
     }
 }
