@@ -4,7 +4,8 @@ module.exports = {
     base: '/frontend-lectures/',
     themeConfig: {
         sidebar: [
-            '1-intro/'
+            '1-intro/',
+            '3-build-ci/'
         ]
     }
 }
